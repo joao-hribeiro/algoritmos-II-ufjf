@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#include "troca.hpp"
+#include "../../troca.hpp"
 using namespace std;
 
 void selectionSort(int vet[], int n){
